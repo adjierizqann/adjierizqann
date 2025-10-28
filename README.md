@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Adjie<br>AI & Computer Vision Learner<br>🔭 I'm currently working on Tomato ripeness detection and object detection research (YOLO, RT-DETR, ViT, etc.)<br><br>🌱 I'm currently learning Deep Learning, PyTorch, Object Detection<br><br>👯 I'm looking to collaborate on Computer Vision and open-source AI projects<br><br>📫 How to reach me adjierizqan@gmail.com<br><br>⚡ Fun fact I get way too excited when my model’s accuracy goes up by 1%
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadrizqan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adjierizqan@gmail.com) 
 
